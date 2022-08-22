@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class DFsdf : MonoBehaviour
 {
+    int my_property;
+    
     // Start is called before the first frame update
     void Start()
     {
